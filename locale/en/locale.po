@@ -1,0 +1,5 @@
+msgid "plugins.generic.pubMedXML.displayName"
+msgstr "PubMed XML"
+
+msgid "plugins.generic.pubMedXMLhJax.description"
+msgstr "This plugin adds support for PubMed XML."
